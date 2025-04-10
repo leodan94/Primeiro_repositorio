@@ -1,0 +1,5 @@
+git clone url -> clonar repositório
+git status ->  verificar status
+git add -a -> adiciona todos os arquivos novo no git
+git commit -m "comentario" ->adiciona um comentário para o git
+git push origin main -> carrega para o git os arquivos com modificações 
